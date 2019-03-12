@@ -1,2 +1,2 @@
 # pandas_practice
-take Ted`s advice
+take Ted's advice
